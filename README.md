@@ -1,6 +1,6 @@
 # <p align="center">电脑翻墙教程：2026年最好用的电脑VPN推荐</p>
 
-<p align="center">最近更新于：2026年1月2日</p>
+<p align="center">最近更新于：2026年1月22日</p>
 
 现如今，电脑和手机已经是我们工作、学习和生活中不可或缺的工具。但由于GFW的封锁，很多中国用户无法使用像Facebook、Gmail、Skype、Telegram这样的通讯工具和海外客户沟通，也无法通过Google、YouTube查找学习资料，更别说在Netflix、Hulu上追剧看电影了。如果想自由访问这些海外网站和APP，翻墙是绕不过去的一步。
 
